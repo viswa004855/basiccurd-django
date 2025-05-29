@@ -1,0 +1,49 @@
+body {
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin:150px;
+    }
+
+    .card{
+        background color:chocolate;
+        max-width: 600px;
+        margin: auto;
+        border-radius: 16px;
+        border: none;
+    }
+
+    h2 {
+        font-weight: 600;
+        color: #198754; /* Bootstrap green */
+    }
+
+    .form-label {
+        font-weight: 500;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 10px 15px;
+        font-size: 1rem;
+    }
+
+    .btn-success {
+        background-color: #198754;
+        border: none;
+        border-radius: 10px;
+        padding: 10px 20px;
+    }
+
+    .btn-secondary {
+        border-radius: 10px;
+        padding: 10px 20px;
+    }
+
+    .btn:hover {
+        opacity: 0.9;
+    }
+
+    .card shadow {
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    }
